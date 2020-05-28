@@ -15,8 +15,6 @@ React, Node 기반의 MEGABOX, CGV, LOTTE 3사의 개봉예정작을 크롤링 �
 </div>
 <div>
   <img src="https://user-images.githubusercontent.com/53656336/83129284-8a031900-a117-11ea-8acf-0d0345ee88c4.PNG" width="350px">
-</div>
-<div>
   <img src="https://user-images.githubusercontent.com/53656336/83129666-1c0b2180-a118-11ea-95fb-81dbade81eb8.PNG" width="350px">
 </div>
 
