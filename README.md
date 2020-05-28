@@ -27,7 +27,7 @@ React, Node 기반의 MEGABOX, CGV, LOTTE 3사의 개봉예정작을 크롤링 �
 - 영화목록 조회
    + MEGABOX, CGV, LOTTE버튼클릭시 연결된 API를 통해 해당영화관의 목록을 DB에서 불러옵니다. 영화관의 이름을 Redux store에 저장해놓고 정렬옵션 적용 시 사용합니다.
 - 알람신청
-   + ADMIN이 PUSH버튼을 누르면 DB에서 개봉하루전인(D-1)인 영화의 알람신청USER에게 알람을 보내줍니다.
+   + ADMIN이 PUSH버튼을 누르면 DB에서 개봉하루전인(D-1)인 영화의 알람신청한 USER에게 firebase GCM을 통해 알람을 보내줍니다.
 - 게시글 등록/수정/삭제
 
 ## 웹사이트 이용
